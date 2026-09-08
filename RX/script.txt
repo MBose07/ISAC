@@ -1,0 +1,1 @@
+iverilog tb_final.v full_ofdm_rx.v  CFO/*.v FFT/*.v OTHERS/*.v POST_FFT/*.v PREAMBLE/*.v 
